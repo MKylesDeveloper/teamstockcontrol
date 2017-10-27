@@ -1,0 +1,7 @@
+C:\Users\Chico Mac\Documents\Visual Studio 2017\Projects\StockControl\StockControl\obj\Debug\StockControl.csprojResolveAssemblyReference.cache
+C:\Users\Chico Mac\Documents\Visual Studio 2017\Projects\StockControl\StockControl\obj\Debug\StockControl.csproj.CoreCompileInputs.cache
+C:\Users\Chico Mac\Documents\Visual Studio 2017\Projects\StockControl\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\Chico Mac\Documents\Visual Studio 2017\Projects\StockControl\StockControl\bin\Debug\StockControl.exe
+C:\Users\Chico Mac\Documents\Visual Studio 2017\Projects\StockControl\StockControl\bin\Debug\StockControl.pdb
+C:\Users\Chico Mac\Documents\Visual Studio 2017\Projects\StockControl\StockControl\obj\Debug\StockControl.exe
+C:\Users\Chico Mac\Documents\Visual Studio 2017\Projects\StockControl\StockControl\obj\Debug\StockControl.pdb
